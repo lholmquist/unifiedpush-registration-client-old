@@ -1,0 +1,31 @@
+{
+  "name": "unifiedpush-registration-client",
+  "version": "0.0.1",
+  "description": "registration api for the AeroGear Unified Push server",
+  "homepage": "https://github.com/lholmquist/unifiedpush-registration-client",
+  "author": {
+    "name": "Red Hat, Inc.",
+    "url": "http://aerogear.org"
+  },
+  "main": "lib/unifiedpush-registration",
+  "maintainers": {
+    "name": "Lucas Holmquist",
+    "email": "lholmqui@redhat.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lholmquist/unifiedpush-registration-client.git"
+  },
+  "bugs": {
+    "url": "https://issues.jboss.org/browse/AGPUSH"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
